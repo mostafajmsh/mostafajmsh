@@ -1,4 +1,11 @@
-### Hi there, I'm ***Mostafa Jamshidi*** 👋
+## Hi there, I'm ***Mostafa Jamshidi*** 👋
+
+<h3>👨🏻‍💻 &nbsp; About Me</h3>
+
+- 💻 &nbsp; Working as a Front-End Web Developer
+- 🌱 &nbsp; Learning Tailwind and ReactJS
+- 👱🏻‍♂️ &nbsp; I am 29 y.o
+- 🤍 &nbsp; My Hobbies are Coding and Drinking coffee ☕️
 
 ```javascript
 function generateGitHubBio(username, role, city, expertise, skills, openness, exploration) {
@@ -11,7 +18,7 @@ function generateGitHubBio(username, role, city, expertise, skills, openness, ex
 
 const myGitHubBio = generateGitHubBio('mostafajmsh',
 'Front-end Web Developer',
-'zabol, sistan & baluchestan province'
+'🏠 zabol, sistan & baluchestan province'
 'UI/UX',
 'HTML, CSS, JavaScript, npm',
 'Open to collaboration and new opportunities',
