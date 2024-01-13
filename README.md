@@ -57,5 +57,8 @@ console.log(myGitHubBio);
     </a> &nbsp; 
     <a href="https://t.me/mostafa_jmsh">
         <img src="https://img.shields.io/badge/Telegram-@mostafa_jmsh-blue?style=flat&logo=telegram" />
+    </a> &nbsp; 
+    <a href="www.linkedin.com/in/mostafa-jmsh">
+        <img src="https://img.shields.io/badge/LinkedIn-@mostafa--jmsh-blue?style=flat&logo=linkedin" />
     </a>
 </p>
