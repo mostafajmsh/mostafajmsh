@@ -30,7 +30,7 @@ const myGitHubBio = generateGitHubBio('mostafajmsh',
 'zabol, sistan & baluchestan province'
 'UI/UX',
 'HTML, CSS, JavaScript, npm, Rest Api, Git, GitHub',
-'PostMan, Studio 3T, Figma'
+'PostMan, Studio 3T, Figma',
 'Open to collaboration and new opportunities',
 'Exploring the ever-evolving world of web technologies');
 
