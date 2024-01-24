@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" /> &nbsp; 
 <img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript" /> &nbsp; 
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=Git" /> &nbsp; 
-<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub" /></div>
+<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub" /> &nbsp; 
+<img src="https://img.shields.io/badge/-TailwindsCss-333333?style=flat&logo=tailwindcss" /></div>
 
 
 
