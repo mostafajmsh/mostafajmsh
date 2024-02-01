@@ -3,7 +3,8 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <div align="center"> <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" /> &nbsp; 
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" /> &nbsp; 
-<img src="https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript" /> &nbsp; 
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" /> &nbsp; 
+<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" /> &nbsp; 
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=Git" /> &nbsp; 
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub" /> &nbsp; 
 <img src="https://img.shields.io/badge/-TailwindsCss-333333?style=flat&logo=tailwindcss" /></div>
