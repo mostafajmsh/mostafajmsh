@@ -30,8 +30,8 @@ const myGitHubBio = generateGitHubBio('mostafajmsh',
 'Front-end Web Developer',
 'zabol, sistan & baluchestan province'
 'UI/UX',
-'HTML, CSS, JavaScript, npm, Rest Api, Git, GitHub',
-'PostMan, Studio 3T, Figma',
+'HTML, CSS, JavaScript, TailwinCSS, ReactJS',
+'PostMan, Studio 3T, Figma, npm, Rest Api, Git, GitHub,',
 'Open to collaboration and new opportunities',
 'Exploring the ever-evolving world of web technologies');
 
